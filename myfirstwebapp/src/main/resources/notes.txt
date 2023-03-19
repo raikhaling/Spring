@@ -1,0 +1,18 @@
+<html>
+
+<head>
+
+</head>
+	<title>
+		My First Web
+	</html>
+
+<body>
+	My First Web App html page with body
+</body>
+
+</html>
+
+say-hello-jsp => SayHelloControler => sayHello() method => sayHello
+=> spring => viewResolver => suffix and prefix
+=>/WEB-INF/jsp/sayHello.jsp
